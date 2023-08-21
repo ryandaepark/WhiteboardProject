@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BrandingImage
+  - BrandingColorSecondary
+  - BrandingColorPrimary
+  - ModelSpawner
+  - Spawner
+  - LineAnchor
+  - Whiteboard
+  - Text Input
+  - Draggable
+  - Resizeable
+  - PostIt
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - AnchorHit
+  - Whiteboard
+  - 
+  - 
+  - 
+  - MoveCollider
+  - 
+  - 
+  - 
+  - TransformGizmo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - UGC Layer 1
+  - UGC Layer 2
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
