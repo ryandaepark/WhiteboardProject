@@ -22,8 +22,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Here is the original prototype demonstration:<br /> 
+https://youtu.be/98_Hqm2ZPpY?t=90 <br />
 
-Prototype of a whiteboarding tool. The final version was submitted and implemented into a VR input system and is not public. 
+Version 1 (V1) shows the original VR interactions, however, the biggest flaw were the gimmicky inconsistent interactions which I fixed here on V2. Most of the logics behind the interactions were fixed, but the VR interactions were scraped and restructured to fit into V3.<br />
+
+This is the current control and features for V2 of a whiteboarding tool. V3, the final version, was submitted and implemented into a VR application in a closed source project. <br />
 
 Controls:<br />
 WASD: Move<br />
